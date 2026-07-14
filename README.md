@@ -21,7 +21,7 @@
 - SQL
 
 ## 📸 Скриншот
-![Дашборд](Скриншот-20260713-163622.png)
+![Дашборд](Скриншот-20260714-193813.png)
 
 ## 📂 Файлы
 - [chocolate_dashboard.pbix](https://github.com/Stepa555/chocolate-sales-dashboard/blob/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%88%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4%D0%B0.pbix) — файл дашборда
